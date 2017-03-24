@@ -1,0 +1,26 @@
+.table {
+	text-align: left;
+}
+
+form {
+	display: inline;
+}
+
+.container {
+	text-align: center;
+	border-radius: 3px;
+	background-color: white;
+	padding: 15px 15px 30px 15px;
+	margin-top: 30px;
+	width: 500px;
+}
+
+body {
+	background-color: #d0a1a8 !important;
+}
+
+h1 {
+	color: #d0a1a8;
+	border-bottom: 2px #d0a1a8 solid;
+	padding-bottom: 10px;
+}

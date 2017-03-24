@@ -1,0 +1,27 @@
+input[name='color'] {
+	background: transparent;
+	border: none;
+}
+
+div.container {
+	width: 400px;
+	background-color: #b76e79;
+	border-radius: 3px;
+	padding: 15px 15px 30px 15px;
+	margin-top: 30px;
+	color: white;
+}
+
+body {
+	background-color: #d0a1a8 !important;
+}
+
+.go-button {
+	text-align: right;
+}
+
+h1 {
+	color: white;
+	border-bottom: 2px #d0a1a8 solid;
+	padding-bottom: 10px;
+}
